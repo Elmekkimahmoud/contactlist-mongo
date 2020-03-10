@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/contactlist-mongo/static/css/main.29474ae3.chunk.css",
+    "main.js": "/contactlist-mongo/static/js/main.602e1e6f.chunk.js",
+    "main.js.map": "/contactlist-mongo/static/js/main.602e1e6f.chunk.js.map",
+    "runtime-main.js": "/contactlist-mongo/static/js/runtime-main.a6aab6fd.js",
+    "runtime-main.js.map": "/contactlist-mongo/static/js/runtime-main.a6aab6fd.js.map",
+    "static/js/2.10af9c49.chunk.js": "/contactlist-mongo/static/js/2.10af9c49.chunk.js",
+    "static/js/2.10af9c49.chunk.js.map": "/contactlist-mongo/static/js/2.10af9c49.chunk.js.map",
+    "index.html": "/contactlist-mongo/index.html",
+    "precache-manifest.f5e7296c3eb187055655b95bf4d2cf88.js": "/contactlist-mongo/precache-manifest.f5e7296c3eb187055655b95bf4d2cf88.js",
+    "service-worker.js": "/contactlist-mongo/service-worker.js",
+    "static/css/main.29474ae3.chunk.css.map": "/contactlist-mongo/static/css/main.29474ae3.chunk.css.map",
+    "static/js/2.10af9c49.chunk.js.LICENSE.txt": "/contactlist-mongo/static/js/2.10af9c49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6aab6fd.js",
+    "static/js/2.10af9c49.chunk.js",
+    "static/css/main.29474ae3.chunk.css",
+    "static/js/main.602e1e6f.chunk.js"
+  ]
+}
